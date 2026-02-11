@@ -190,6 +190,4 @@ Average Transaction
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot file in repo and use below)
-
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/tesmy-poulose/Retail-Banking-Transaction-Behavior-Analytics/refs/heads/main/Retail_Banking_Transaction_Behavior_Analytics_Screenshot.png)
